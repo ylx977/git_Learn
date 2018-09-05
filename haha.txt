@@ -1,3 +1,0 @@
-{"gp_livesellprice_tael_min":6280.551459,"gp_livesellprice_tael_init":6280.7908464,"gp_livesellprice_tael_max":6281.5569012,"gp_livesellprice_tael_end":6280.551459,"gp_livesellprice_tael":6280.7908464}
-
-haha on ylx branch
